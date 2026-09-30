@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lost and Found Portal",
+  "description": "A modern lost and found platform to report, search, match, and recover lost and found belongings with smart matching and verified claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
